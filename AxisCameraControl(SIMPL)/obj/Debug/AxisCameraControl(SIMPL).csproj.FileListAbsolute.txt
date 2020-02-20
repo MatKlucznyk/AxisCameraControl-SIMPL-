@@ -1,0 +1,40 @@
+C:\Users\matklucznyk\OneDrive - RAVE AUDIO VISUAL\Modules\RAVE Modules\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\bin\Debug\AxisCameraControl(SIMPL).dll
+C:\Users\matklucznyk\OneDrive - RAVE AUDIO VISUAL\Modules\RAVE Modules\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\bin\Debug\AxisCameraControl(SIMPL).pdb
+C:\Users\matklucznyk\OneDrive - RAVE AUDIO VISUAL\Modules\RAVE Modules\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\bin\Debug\SimplSharpCustomAttributesInterface.dll
+C:\Users\matklucznyk\OneDrive - RAVE AUDIO VISUAL\Modules\RAVE Modules\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\bin\Debug\SimplSharpHelperInterface.dll
+C:\Users\matklucznyk\OneDrive - RAVE AUDIO VISUAL\Modules\RAVE Modules\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\bin\Debug\SimplSharpReflectionInterface.dll
+C:\Users\matklucznyk\OneDrive - RAVE AUDIO VISUAL\Modules\RAVE Modules\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\bin\Debug\SSharpCrestronExtensionsLibrary.dll
+C:\Users\matklucznyk\OneDrive - RAVE AUDIO VISUAL\Modules\RAVE Modules\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\bin\Debug\SSharpReflectionExtensionsLibrary.dll
+C:\Users\matklucznyk\OneDrive - RAVE AUDIO VISUAL\Modules\RAVE Modules\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\bin\Debug\SSharpThreadingLibrary.dll
+C:\Users\matklucznyk\OneDrive - RAVE AUDIO VISUAL\Modules\RAVE Modules\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\bin\Debug\SSMonoCryptographyExtensions.dll
+C:\Users\matklucznyk\OneDrive - RAVE AUDIO VISUAL\Modules\RAVE Modules\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\bin\Debug\SSMonoCryptographyLibrary.dll
+C:\Users\matklucznyk\OneDrive - RAVE AUDIO VISUAL\Modules\RAVE Modules\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\bin\Debug\SSMonoNetLibrary.dll
+C:\Users\matklucznyk\OneDrive - RAVE AUDIO VISUAL\Modules\RAVE Modules\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\bin\Debug\SSMonoNetWebLibrary.dll
+C:\Users\matklucznyk\OneDrive - RAVE AUDIO VISUAL\Modules\RAVE Modules\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\bin\Debug\SSMonoSslStreamLibrary.dll
+C:\Users\matklucznyk\OneDrive - RAVE AUDIO VISUAL\Modules\RAVE Modules\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\bin\Debug\SSMonoSupportLibrary.dll
+C:\Users\matklucznyk\OneDrive - RAVE AUDIO VISUAL\Modules\RAVE Modules\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\bin\Debug\SSMonoThreadPoolLibrary.dll
+C:\Users\matklucznyk\OneDrive - RAVE AUDIO VISUAL\Modules\RAVE Modules\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\bin\Debug\SSMonoTupleLibrary.dll
+C:\Users\matklucznyk\OneDrive - RAVE AUDIO VISUAL\Modules\RAVE Modules\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\bin\Debug\SSMonoX509CertificatesLibrary.dll
+C:\Users\matklucznyk\OneDrive - RAVE AUDIO VISUAL\Modules\RAVE Modules\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\matklucznyk\OneDrive - RAVE AUDIO VISUAL\Modules\RAVE Modules\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\obj\Debug\AxisCameraControl(SIMPL).dll
+C:\Users\matklucznyk\OneDrive - RAVE AUDIO VISUAL\Modules\RAVE Modules\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\obj\Debug\AxisCameraControl(SIMPL).pdb
+D:\Programming\OneDrive - Global USS\Crestron Modules\Mat\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\bin\Debug\AxisCameraControl(SIMPL).dll
+D:\Programming\OneDrive - Global USS\Crestron Modules\Mat\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\bin\Debug\AxisCameraControl(SIMPL).pdb
+D:\Programming\OneDrive - Global USS\Crestron Modules\Mat\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\bin\Debug\SimplSharpCustomAttributesInterface.dll
+D:\Programming\OneDrive - Global USS\Crestron Modules\Mat\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\bin\Debug\SimplSharpHelperInterface.dll
+D:\Programming\OneDrive - Global USS\Crestron Modules\Mat\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\bin\Debug\SimplSharpReflectionInterface.dll
+D:\Programming\OneDrive - Global USS\Crestron Modules\Mat\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\bin\Debug\SSharpCrestronExtensionsLibrary.dll
+D:\Programming\OneDrive - Global USS\Crestron Modules\Mat\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\bin\Debug\SSharpReflectionExtensionsLibrary.dll
+D:\Programming\OneDrive - Global USS\Crestron Modules\Mat\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\bin\Debug\SSharpThreadingLibrary.dll
+D:\Programming\OneDrive - Global USS\Crestron Modules\Mat\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\bin\Debug\SSMonoCryptographyExtensions.dll
+D:\Programming\OneDrive - Global USS\Crestron Modules\Mat\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\bin\Debug\SSMonoCryptographyLibrary.dll
+D:\Programming\OneDrive - Global USS\Crestron Modules\Mat\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\bin\Debug\SSMonoNetLibrary.dll
+D:\Programming\OneDrive - Global USS\Crestron Modules\Mat\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\bin\Debug\SSMonoNetWebLibrary.dll
+D:\Programming\OneDrive - Global USS\Crestron Modules\Mat\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\bin\Debug\SSMonoSslStreamLibrary.dll
+D:\Programming\OneDrive - Global USS\Crestron Modules\Mat\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\bin\Debug\SSMonoSupportLibrary.dll
+D:\Programming\OneDrive - Global USS\Crestron Modules\Mat\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\bin\Debug\SSMonoThreadPoolLibrary.dll
+D:\Programming\OneDrive - Global USS\Crestron Modules\Mat\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\bin\Debug\SSMonoTupleLibrary.dll
+D:\Programming\OneDrive - Global USS\Crestron Modules\Mat\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\bin\Debug\SSMonoX509CertificatesLibrary.dll
+D:\Programming\OneDrive - Global USS\Crestron Modules\Mat\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\obj\Debug\ResolveAssemblyReference.cache
+D:\Programming\OneDrive - Global USS\Crestron Modules\Mat\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\obj\Debug\AxisCameraControl(SIMPL).dll
+D:\Programming\OneDrive - Global USS\Crestron Modules\Mat\SIMPLSharp Projects\AxisCameraControl(SIMPL)\AxisCameraControl(SIMPL)\obj\Debug\AxisCameraControl(SIMPL).pdb

@@ -1,0 +1,121 @@
+#SYMBOL_NAME "AxisCamera"
+
+//#INCLUDEPATh "D:\\Programming\\OneDrive - Global USS\\Crestron Modules\\Mat\\SIMPLSharp Projects\\AxisCameraControl(SIMPL)\\AxisCameraControl(SIMPL)\\bin\\Debug"
+#USER_SIMPLSHARP_LIBRARY "AxisCameraControl(SIMPL)"
+
+Digital_Input _skip_, _skip_, _skip_, PanUp, PanDown, PanLeft, PanRight, ZoomIn, ZoomOut, SavePreset, RecallPreset;
+Analog_Input PresetNumber;
+String_Input _skip_, IpAddress[20];
+
+Digital_Output _skip_, _skip_, _skip_, PresetSaved, PresetRecalled;
+
+String_Parameter Ip_Address[20], Username[100], Password[100];
+
+AxisCamera camera;
+
+Push PanUp
+{
+	while(PanUp)
+	{
+		camera.PTZ("up");
+		delay(20);
+	}
+}
+
+Release PanUp
+{
+	camera.PTZ("stop");
+}  
+
+Push PanDown
+{
+	while(PanDown)
+	{
+		camera.PTZ("down");
+		delay(20);
+	}
+}
+
+Release PanDown
+{
+	camera.PTZ("stop");
+}  
+
+Push PanLeft
+{
+	while(PanLeft)
+	{
+		camera.PTZ("left");
+		delay(20);
+	}
+}
+
+Release PanLeft
+{
+	camera.PTZ("stop");
+}    
+
+Push PanRight
+{
+	while(PanRight)
+	{
+		camera.PTZ("right");
+		delay(20);
+	}
+}
+
+Release PanRight
+{
+	camera.PTZ("stop");
+}      
+
+Push ZoomIn
+{
+	while(ZoomIn)
+	{
+		camera.Zoom("tele");
+		delay(20);
+	}                                                           
+} 
+
+Push ZoomOut
+{
+	while(ZoomOut)
+	{
+		camera.Zoom("wide");
+		delay(20);
+	}
+}
+
+change PresetNumber
+{
+	if (SavePreset)      
+	{
+		camera.SavePreset(PresetNumber);
+		Pulse(10, PresetSaved); 
+	}
+	else if (RecallPreset)      
+	{
+		camera.RecallPreset(presetNumber); 
+		Pulse(10, PresetRecalled);
+	}	
+}
+
+change IpAddress
+{
+	if(len(IpAddress))
+	{
+		camera.IpAddress = Ip_Address;
+	}
+}
+
+function Main()
+{
+	camera.Username = Username;
+	camera.Password = Password;
+
+	if(len(Ip_Address))
+	{
+		camera.IpAddress = Ip_Address;
+	}
+}
