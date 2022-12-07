@@ -1,6 +1,5 @@
 #SYMBOL_NAME "AxisCamera"
 
-#INCLUDEPATh "D:\\Programming\\OneDrive - Global USS\\Crestron Modules\\Mat\\SIMPLSharp Projects\\AxisCameraControl(SIMPL)\\AxisCameraControl(SIMPL)\\bin\\Debug"
 #USER_SIMPLSHARP_LIBRARY "AxisCameraControl(SIMPL)"
 
 Digital_Input _skip_, _skip_, _skip_, PanUp, PanDown, PanLeft, PanRight, ZoomIn, ZoomOut, SavePreset, RecallPreset;

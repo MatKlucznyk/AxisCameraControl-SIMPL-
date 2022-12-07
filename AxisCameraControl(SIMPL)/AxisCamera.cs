@@ -59,7 +59,7 @@ namespace AxisCameraControl_SIMPL_
                 SSMono.Net.WebRequest request = SSMono.Net.WebRequest.Create(string.Format("http://{0}/axis-cgi/com/ptz.cgi?query=position", ipA));
                 request.Timeout = 5;
                 request.Credentials = new SSMono.Net.NetworkCredential(username, password);
-                CrestronConsole.PrintLine("URL Path:{0}", request.RequestUri);
+                //CrestronConsole.PrintLine("URL Path:{0}", request.RequestUri);
                 //request.Method = "POST";
                 SSMono.Net.WebResponse response = request.GetResponse();
 
@@ -87,9 +87,13 @@ namespace AxisCameraControl_SIMPL_
                         isInitialized("init-complete");
                     }
                 }
+
+                response.Close();
             }
             catch (Exception e)
             {
+                find.Stop();
+                find.Dispose();
                 ErrorLog.Exception(string.Format("Exception occured in AxisCamera {0} Find - ", ipA), e);
             }
         }
@@ -101,9 +105,10 @@ namespace AxisCameraControl_SIMPL_
                 CrestronConsole.PrintLine("PTZ Type:{0} is being sent", type);
                 SSMono.Net.WebRequest request = SSMono.Net.WebRequest.Create(string.Format("http://{0}/axis-cgi/com/ptz.cgi?move={1}", ipA, type));
                 request.Credentials = new SSMono.Net.NetworkCredential(username, password);
-                CrestronConsole.PrintLine("URL Path:{0}", request.RequestUri);
+                //CrestronConsole.PrintLine("URL Path:{0}", request.RequestUri);
                 //request.Method = "POST";
-                request.GetResponse();
+                var x = request.GetResponse();
+                x.Close();
             }
             catch (Exception e)
             {
@@ -119,7 +124,8 @@ namespace AxisCameraControl_SIMPL_
                 SSMono.Net.WebRequest request = SSMono.Net.WebRequest.Create(string.Format("http://{0}/axis-cgi/com/ptz.cgi?setserverpresetname={1}", ipA, number));
                 request.Credentials = new SSMono.Net.NetworkCredential(username, password);
                 //request.Method = "POST";
-                request.GetResponse();
+                var x = request.GetResponse();
+                x.Close();
             }
             catch (Exception e)
             {
@@ -134,7 +140,8 @@ namespace AxisCameraControl_SIMPL_
                 SSMono.Net.WebRequest request = SSMono.Net.WebRequest.Create(string.Format("http://{0}/axis-cgi/com/ptz.cgi?gotoserverpresetname={1}", ipA, number));
                 request.Credentials = new SSMono.Net.NetworkCredential(username, password);
                 //request.Method = "POST";
-                request.GetResponse();
+                var x = request.GetResponse();
+                x.Close();
             }
             catch (Exception e)
             {
@@ -166,7 +173,8 @@ namespace AxisCameraControl_SIMPL_
                 SSMono.Net.WebRequest request = SSMono.Net.WebRequest.Create(string.Format("http://{0}/axis-cgi/com/ptz.cgi?zoom={1}", ipA, zoomPos));
                 request.Credentials = new SSMono.Net.NetworkCredential(username, password);
                 //request.Method = "POST";
-                request.GetResponse();
+                var x = request.GetResponse();
+                x.Close();
             }
             catch (Exception e)
             {
