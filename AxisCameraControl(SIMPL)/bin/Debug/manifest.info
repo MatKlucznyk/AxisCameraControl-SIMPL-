@@ -1,7 +1,5 @@
-﻿MainAssembly=AxisCameraControl(SIMPL).dll:0945ddeb2b7425a1d7f169a3e327f9b4
+﻿MainAssembly=AxisCameraControl(SIMPL).dll:c532d77a89f909c855340e90290cb24c
 MainAssemblyMinFirmwareVersion=1.007.0017
-MainAssemblyResource=SimplSharpData.dat:820b61c48c8a2cace82957eed4cc377c
-MainAssemblyResource=SimplSharpData.dat.der:bf862965c00f3e6ec535e4e00e82d30c
 MainAssemblyResource=SimplSharpData.dat:820b61c48c8a2cace82957eed4cc377c
 MainAssemblyResource=SimplSharpData.dat.der:bf862965c00f3e6ec535e4e00e82d30c
 ü
